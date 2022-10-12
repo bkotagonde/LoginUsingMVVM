@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginUsingMVVM</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment_label">Login Fragment</string>
+    <string name="welcome_to_home_screen">Welcome To Home Screen</string>
+    <string name="home_fragment_label">Home Fragment</string>
+
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+
+    <string name="login_fragment">Login</string>
+    <string name="home_fragment">Home Page</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+</resources>
